@@ -1,0 +1,102 @@
+descriptive_label,Label,Strain,Substrate,Phase,Replicate,Sample Shipped,Metabolomics,FTICR-MS,investigation_type,treatment,growth_phase,consensus_phase
+pvhg_media_t0,1-2,N/A,PVHG Media t0,,X,liquid in 2 mL screw cap centrifuge tube,extracellular (LCMS),,"metabolome, extracellular",switchgrass lignin ,,unknown
+ex_pvhg_pvhg6_lag_1,1-9,PVHG6,PVHG,lag,1,liquid in 2 mL screw cap centrifuge tube,extracellular (LCMS),,"metabolome, extracellular",switchgrass lignin ,lag,lag
+ex_pvhg_pvhg6_lag_2,1-10,PVHG6,PVHG,lag,2,liquid in 2 mL screw cap centrifuge tube,extracellular (LCMS),,"metabolome, extracellular",switchgrass lignin ,lag,lag
+ex_pvhg_pvhg6_lag_3,1-11,PVHG6,PVHG,lag,3,liquid in 2 mL screw cap centrifuge tube,extracellular (LCMS),,"metabolome, extracellular",switchgrass lignin ,lag,lag
+ex_pvhg_wt_lag_1a,1-12,WT,PVHG,lag,1,liquid in 2 mL screw cap centrifuge tube,extracellular (LCMS),,"metabolome, extracellular",switchgrass lignin ,lag,lag
+ex_pvhg_wt_lag_2a,1-13,WT,PVHG,lag,2,liquid in 2 mL screw cap centrifuge tube,extracellular (LCMS),,"metabolome, extracellular",switchgrass lignin ,lag,lag
+ex_pvhg_wt_lag_3a,1-14,WT,PVHG,lag,3,liquid in 2 mL screw cap centrifuge tube,extracellular (LCMS),,"metabolome, extracellular",switchgrass lignin ,lag,lag
+ex_pvhg_pvhg6_early_stat_1,1-21,PVHG6,PVHG,early,1,liquid in 2 mL screw cap centrifuge tube,extracellular (LCMS),,"metabolome, extracellular",switchgrass lignin ,early stationary,early_stat
+ex_pvhg_pvhg6_early_stat_2,1-22,PVHG6,PVHG,early,2,liquid in 2 mL screw cap centrifuge tube,extracellular (LCMS),,"metabolome, extracellular",switchgrass lignin ,early stationary,early_stat
+ex_pvhg_pvhg6_early_stat_3,1-23,PVHG6,PVHG,early,3,liquid in 2 mL screw cap centrifuge tube,extracellular (LCMS),,"metabolome, extracellular",switchgrass lignin ,early stationary,early_stat
+ex_pvhg_wt_early_stat_1a,1-24,WT,PVHG,early,1,liquid in 2 mL screw cap centrifuge tube,extracellular (LCMS),,"metabolome, extracellular",switchgrass lignin ,early stationary,early_stat
+ex_pvhg_wt_early_stat_2a,1-25,WT,PVHG,early,2,liquid in 2 mL screw cap centrifuge tube,extracellular (LCMS),,"metabolome, extracellular",switchgrass lignin ,early stationary,early_stat
+ex_pvhg_wt_early_stat_3a,1-26,WT,PVHG,early,3,liquid in 2 mL screw cap centrifuge tube,extracellular (LCMS),,"metabolome, extracellular",switchgrass lignin ,early stationary,early_stat
+ex_pvhg_pvhg6_late_exp_1,1-33,PVHG6,PVHG,late,1,liquid in 2 mL screw cap centrifuge tube,extracellular (LCMS),,"metabolome, extracellular",switchgrass lignin ,late exponential,late_exp
+ex_pvhg_pvhg6_late_exp_2,1-34,PVHG6,PVHG,late,2,liquid in 2 mL screw cap centrifuge tube,extracellular (LCMS),,"metabolome, extracellular",switchgrass lignin ,late exponential,late_exp
+ex_pvhg_pvhg6_late_exp_3,1-35,PVHG6,PVHG,late,3,liquid in 2 mL screw cap centrifuge tube,extracellular (LCMS),,"metabolome, extracellular",switchgrass lignin ,late exponential,late_exp
+ex_pvhg_wt_late_exp_1a,1-36,WT,PVHG,late,1,liquid in 2 mL screw cap centrifuge tube,extracellular (LCMS),,"metabolome, extracellular",switchgrass lignin ,late exponential,late_exp
+ex_pvhg_wt_late_exp_2a,1-37,WT,PVHG,late,2,liquid in 2 mL screw cap centrifuge tube,extracellular (LCMS),,"metabolome, extracellular",switchgrass lignin ,late exponential,late_exp
+ex_pvhg_wt_late_exp_3a,1-38,WT,PVHG,late,3,liquid in 2 mL screw cap centrifuge tube,extracellular (LCMS),,"metabolome, extracellular",switchgrass lignin ,late exponential,late_exp
+ex_pvhg_pvhg6_mid_exp_1,1-45,PVHG6,PVHG,mid,1,liquid in 2 mL screw cap centrifuge tube,extracellular (LCMS),,"metabolome, extracellular",switchgrass lignin ,mid exponential,mid_exp
+ex_pvhg_pvhg6_mid_exp_2,1-46,PVHG6,PVHG,mid,2,liquid in 2 mL screw cap centrifuge tube,extracellular (LCMS),,"metabolome, extracellular",switchgrass lignin ,mid exponential,mid_exp
+ex_pvhg_pvhg6_mid_exp_3,1-47,PVHG6,PVHG,mid,3,liquid in 2 mL screw cap centrifuge tube,extracellular (LCMS),,"metabolome, extracellular",switchgrass lignin ,mid exponential,mid_exp
+ex_pvhg_wt_mid_exp_1a,1-48,WT,PVHG,mid,1,liquid in 2 mL screw cap centrifuge tube,extracellular (LCMS),,"metabolome, extracellular",switchgrass lignin ,mid exponential,mid_exp
+ex_pvhg_wt_mid_exp_2a,1-49,WT,PVHG,mid,2,liquid in 2 mL screw cap centrifuge tube,extracellular (LCMS),,"metabolome, extracellular",switchgrass lignin ,mid exponential,mid_exp
+ex_pvhg_wt_mid_exp_3a,1-50,WT,PVHG,mid,3,liquid in 2 mL screw cap centrifuge tube,extracellular (LCMS),,"metabolome, extracellular",switchgrass lignin ,mid exponential,mid_exp
+in_switchgrass_pvhg6_early_stat_1,1-A,PVHG6,Switchgrass,early,1,pellet in 2 mL screw cap centrifuge tube,intracellular (GC-MS + LCMS),,"metabolome, intracellular",switchgrass-grown cells,early stationary,early_stat
+in_switchgrass_pvhg6_early_stat_3,1-B,PVHG6,Switchgrass,early,3,pellet in 2 mL screw cap centrifuge tube,intracellular (GC-MS + LCMS),,"metabolome, intracellular",switchgrass-grown cells,early stationary,early_stat
+in_switchgrass_pvhg6_early_stat_2,1-C,PVHG6,Switchgrass,early,2,pellet in 2 mL screw cap centrifuge tube,intracellular (GC-MS + LCMS),,"metabolome, intracellular",switchgrass-grown cells,early stationary,early_stat
+in_switchgrass_wt_early_stat_1,1-D,WT,Switchgrass,early,1,pellet in 2 mL screw cap centrifuge tube,intracellular (GC-MS + LCMS),,"metabolome, intracellular",switchgrass-grown cells,early stationary,early_stat
+in_switchgrass_wt_early_stat_2,1-E,WT,Switchgrass,early,2,pellet in 2 mL screw cap centrifuge tube,intracellular (GC-MS + LCMS),,"metabolome, intracellular",switchgrass-grown cells,early stationary,early_stat
+in_switchgrass_wt_early_stat_3,1-F,WT,Switchgrass,early,3,pellet in 2 mL screw cap centrifuge tube,intracellular (GC-MS + LCMS),,"metabolome, intracellular",switchgrass-grown cells,early stationary,early_stat
+in_pvhg_pvhg6_early_stat_1,1-G,PVHG6,PVHG,early,1,pellet in 2 mL screw cap centrifuge tube,intracellular (GC-MS + LCMS),,"metabolome, intracellular",switchgrass-grown cells,early stationary,early_stat
+in_pvhg_pvhg6_early_stat_2,1-H,PVHG6,PVHG,early,2,pellet in 2 mL screw cap centrifuge tube,intracellular (GC-MS + LCMS),,"metabolome, intracellular",switchgrass-grown cells,early stationary,early_stat
+in_pvhg_pvhg6_early_stat_3,1-I,PVHG6,PVHG,early,3,pellet in 2 mL screw cap centrifuge tube,intracellular (GC-MS + LCMS),,"metabolome, intracellular",switchgrass-grown cells,early stationary,early_stat
+in_pvhg_wt_early_stat_1a,1-J,WT,PVHG,early,1,pellet in 2 mL screw cap centrifuge tube,intracellular (GC-MS + LCMS),,"metabolome, intracellular",switchgrass-grown cells,early stationary,early_stat
+in_pvhg_wt_early_stat_2a,1-K,WT,PVHG,early,2,pellet in 2 mL screw cap centrifuge tube,intracellular (GC-MS + LCMS),,"metabolome, intracellular",switchgrass-grown cells,early stationary,early_stat
+in_pvhg_wt_early_stat_3a,1-L,WT,PVHG,early,3,pellet in 2 mL screw cap centrifuge tube,intracellular (GC-MS + LCMS),,"metabolome, intracellular",switchgrass-grown cells,early stationary,early_stat
+ex_glc_wt_lag_1,4-1,WT,GLC,lag,1,liquid in 2 mL screw cap centrifuge tube,extracellular (LCMS),,"metabolome, extracellular",GLC model compound,lag,lag
+ex_glc_wt_mid_exp_1,4-2,WT,GLC,mid,1,liquid in 2 mL screw cap centrifuge tube,extracellular (LCMS),,,,,mid_exp
+ex_glc_wt_lag_2,4-3,WT,GLC,lag,2,liquid in 2 mL screw cap centrifuge tube,extracellular (LCMS),,,,,lag
+ex_glc_wt_mid_exp_2,4-4,WT,GLC,mid,2,liquid in 2 mL screw cap centrifuge tube,extracellular (LCMS),,,,,mid_exp
+ex_glc_wt_lag_3,4-5,WT,GLC,lag,3,liquid in 2 mL screw cap centrifuge tube,extracellular (LCMS),,,,,lag
+ex_glc_wt_mid_exp_3,4-6,WT,GLC,mid,3,liquid in 2 mL screw cap centrifuge tube,extracellular (LCMS),,,,,mid_exp
+ex_glc_wt_late_exp_1,4-7,WT,GLC,late,1,liquid in 2 mL screw cap centrifuge tube,extracellular (LCMS),,,,,late_exp
+ex_glc_wt_late_exp_2,4-8,WT,GLC,late,2,liquid in 2 mL screw cap centrifuge tube,extracellular (LCMS),,"metabolome, extracellular",GLC model compound,late exponential,late_exp
+ex_glc_wt_early_stat_1,4-9,WT,GLC,early,1,liquid in 2 mL screw cap centrifuge tube,extracellular (LCMS),,,,,early_stat
+ex_glc_wt_early_stat_3,4-10,WT,GLC,early,3,liquid in 2 mL screw cap centrifuge tube,extracellular (LCMS),,"metabolome, extracellular",GLC model compound,early stationary,early_stat
+ex_glc_wt_late_exp_3,4-11,WT,GLC,late,3,liquid in 2 mL screw cap centrifuge tube,extracellular (LCMS),,"metabolome, extracellular",GLC model compound,late exponential,late_exp
+ex_glc_wt_early_stat_2,4-12,WT,GLC,early,2,liquid in 2 mL screw cap centrifuge tube,extracellular (LCMS),,,,,early_stat
+gresham_glc_t0,4-16,N/A,Gresham GLC t0,,X,liquid in 2 mL screw cap centrifuge tube,extracellular (LCMS),,,,,unknown
+ex_glc/phe_wt_lag_2,4-17,WT,GLC/PHE,lag,2,liquid in 2 mL screw cap centrifuge tube,extracellular (LCMS),,"metabolome, extracellular",GLC/PHE model compound,lag,lag
+ex_glc/phe_wt_lag_3,4-18,WT,GLC/PHE,lag,3,liquid in 2 mL screw cap centrifuge tube,extracellular (LCMS),,"metabolome, extracellular",GLC/PHE model compound,lag,lag
+ex_glc/phe_wt_lag_1,4-19,WT,GLC/PHE,lag,1,liquid in 2 mL screw cap centrifuge tube,extracellular (LCMS),,,,,lag
+ex_glc/phe_wt_mid_exp_2,4-20,WT,GLC/PHE,mid,2,liquid in 2 mL screw cap centrifuge tube,extracellular (LCMS),,,,,mid_exp
+ex_glc/phe_wt_mid_exp_3,4-21,WT,GLC/PHE,mid,3,liquid in 2 mL screw cap centrifuge tube,extracellular (LCMS),,"metabolome, extracellular",GLC/PHE model compound,mid exponential,mid_exp
+ex_glc/phe_wt_mid_exp_1,4-22,WT,GLC/PHE,mid,1,liquid in 2 mL screw cap centrifuge tube,extracellular (LCMS),,,,,mid_exp
+ex_glc/phe_wt_late_exp_2,4-23,WT,GLC/PHE,late,2,liquid in 2 mL screw cap centrifuge tube,extracellular (LCMS),,"metabolome, extracellular",GLC/PHE model compound,late exponential,late_exp
+ex_glc/phe_wt_late_exp_3,4-24,WT,GLC/PHE,late,3,liquid in 2 mL screw cap centrifuge tube,extracellular (LCMS),,"metabolome, extracellular",GLC/PHE model compound,late exponential,late_exp
+ex_glc/phe_wt_late_exp_1,4-25,WT,GLC/PHE,late,1,liquid in 2 mL screw cap centrifuge tube,extracellular (LCMS),,"metabolome, extracellular",GLC/PHE model compound,late exponential,late_exp
+ex_glc/phe_wt_early_stat_2,4-26,WT,GLC/PHE,early,2,liquid in 2 mL screw cap centrifuge tube,extracellular (LCMS),,,,,early_stat
+ex_glc/phe_wt_early_stat_3,4-27,WT,GLC/PHE,early,3,liquid in 2 mL screw cap centrifuge tube,extracellular (LCMS),,,,,early_stat
+ex_glc/phe_wt_early_stat_1,4-28,WT,GLC/PHE,early,1,liquid in 2 mL screw cap centrifuge tube,extracellular (LCMS),,,,,early_stat
+gresham_glc/phe_t0,4-32,N/A,Gresham GLC/PHE t0,,X,liquid in 2 mL screw cap centrifuge tube,extracellular (LCMS),,,,,unknown
+ex_phe_wt_lag_1,4-33,WT,PHE,lag,1,liquid in 2 mL screw cap centrifuge tube,extracellular (LCMS),,,,,lag
+ex_phe_wt_mid_exp_1,4-34,WT,PHE,mid,1,liquid in 2 mL screw cap centrifuge tube,extracellular (LCMS),,,,,mid_exp
+ex_phe_wt_lag_2,4-35,WT,PHE,lag,2,liquid in 2 mL screw cap centrifuge tube,extracellular (LCMS),,,,,lag
+ex_phe_wt_mid_exp_2,4-36,WT,PHE,mid,2,liquid in 2 mL screw cap centrifuge tube,extracellular (LCMS),,,,,mid_exp
+ex_phe_wt_lag_3,4-37,WT,PHE,lag,3,liquid in 2 mL screw cap centrifuge tube,extracellular (LCMS),,,,,lag
+ex_phe_wt_mid_exp_3,4-38,WT,PHE,mid,3,liquid in 2 mL screw cap centrifuge tube,extracellular (LCMS),,,,,mid_exp
+ex_phe_wt_late_exp_1,4-39,WT,PHE,late,1,liquid in 2 mL screw cap centrifuge tube,extracellular (LCMS),,,,,late_exp
+ex_phe_wt_late_exp_2,4-40,WT,PHE,late,2,liquid in 2 mL screw cap centrifuge tube,extracellular (LCMS),,,,,late_exp
+ex_phe_wt_late_exp_3,4-41,WT,PHE,late,3,liquid in 2 mL screw cap centrifuge tube,extracellular (LCMS),,,,,late_exp
+ex_phe_wt_early_stat_1,4-42,WT,PHE,early,1,liquid in 2 mL screw cap centrifuge tube,extracellular (LCMS),,,,,early_stat
+ex_phe_wt_early_stat_2,4-43,WT,PHE,early,2,liquid in 2 mL screw cap centrifuge tube,extracellular (LCMS),,,,,early_stat
+ex_phe_wt_early_stat_3,4-44,WT,PHE,early,3,liquid in 2 mL screw cap centrifuge tube,extracellular (LCMS),,,,,early_stat
+gresham_phe_t0,4-48,N/A,Gresham PHE t0,,X,liquid in 2 mL screw cap centrifuge tube,extracellular (LCMS),,,,,unknown
+ex_pvhg_wt_lag_2b,4-49,WT,PVHG,lag,2,liquid in 2 mL screw cap centrifuge tube,extracellular (LCMS),,,,,lag
+ex_pvhg_wt_lag_3b,4-50,WT,PVHG,lag,3,liquid in 2 mL screw cap centrifuge tube,extracellular (LCMS),,,,,lag
+ex_pvhg_wt_lag_1b,4-51,WT,PVHG,lag,1,liquid in 2 mL screw cap centrifuge tube,extracellular (LCMS),,,,,lag
+ex_pvhg_wt_mid_exp_2b,4-52,WT,PVHG,mid,2,liquid in 2 mL screw cap centrifuge tube,extracellular (LCMS),,,,,mid_exp
+ex_pvhg_wt_mid_exp_3b,4-53,WT,PVHG,mid,3,liquid in 2 mL screw cap centrifuge tube,extracellular (LCMS),,,,,mid_exp
+ex_pvhg_wt_mid_exp_1b,4-54,WT,PVHG,mid,1,liquid in 2 mL screw cap centrifuge tube,extracellular (LCMS),,,,,mid_exp
+ex_pvhg_wt_late_exp_2b,4-55,WT,PVHG,late,2,liquid in 2 mL screw cap centrifuge tube,extracellular (LCMS),,,,,late_exp
+ex_pvhg_wt_late_exp_3b,4-56,WT,PVHG,late,3,liquid in 2 mL screw cap centrifuge tube,extracellular (LCMS),,,,,late_exp
+ex_pvhg_wt_late_exp_1b,4-57,WT,PVHG,late,1,liquid in 2 mL screw cap centrifuge tube,extracellular (LCMS),,,,,late_exp
+ex_pvhg_wt_early_stat_2b,4-58,WT,PVHG,early,2,liquid in 2 mL screw cap centrifuge tube,extracellular (LCMS),,,,,early_stat
+ex_pvhg_wt_early_stat_3b,4-59,WT,PVHG,early,3,liquid in 2 mL screw cap centrifuge tube,extracellular (LCMS),,,,,early_stat
+ex_pvhg_wt_early_stat_1b,4-60,WT,PVHG,early,1,liquid in 2 mL screw cap centrifuge tube,extracellular (LCMS),,,,,early_stat
+gresham_pvhg_t0,4-64,N/A,Gresham PVHG t0,,X,liquid in 2 mL screw cap centrifuge tube,extracellular (LCMS),,,,,unknown
+in_glc_wt_early_stat_1,4-A,WT,GLC,early,1,pellet in 1.5 mL screw cap centrifuge tube,intracellular (GC-MS + LCMS),,"metabolome, intracellular",GLC-grown cells,early stationary,early_stat
+in_glc_wt_early_stat_2,4-B,WT,GLC,early,2,pellet in 1.5 mL screw cap centrifuge tube,intracellular (GC-MS + LCMS),,"metabolome, intracellular",GLC-grown cells,early stationary,early_stat
+in_glc_wt_early_stat_3,4-C,WT,GLC,early,3,pellet in 1.5 mL screw cap centrifuge tube,intracellular (GC-MS + LCMS),,"metabolome, intracellular",GLC-grown cells,early stationary,early_stat
+in_glc/phe_wt_early_stat_1,4-D,WT,GLC/PHE,early,1,pellet in 1.5 mL screw cap centrifuge tube,intracellular (GC-MS + LCMS),,,,,early_stat
+in_glc/phe_wt_early_stat_2,4-E,WT,GLC/PHE,early,2,pellet in 1.5 mL screw cap centrifuge tube,intracellular (GC-MS + LCMS),,"metabolome, intracellular",GLC/PHE-grown cells,early stationary,early_stat
+in_glc/phe_wt_early_stat_3,4-F,WT,GLC/PHE,early,3,pellet in 1.5 mL screw cap centrifuge tube,intracellular (GC-MS + LCMS),,"metabolome, intracellular",GLC/PHE-grown cells,early stationary,early_stat
+in_phe_wt_early_stat_1,4-G,WT,PHE,early,1,pellet in 1.5 mL screw cap centrifuge tube,intracellular (GC-MS + LCMS),,"metabolome, intracellular",PHE-grown cells,early stationary,early_stat
+in_phe_wt_early_stat_2,4-H,WT,PHE,early,2,pellet in 1.5 mL screw cap centrifuge tube,intracellular (GC-MS + LCMS),,"metabolome, intracellular",PHE-grown cells,early stationary,early_stat
+in_phe_wt_early_stat_3,4-I,WT,PHE,early,3,pellet in 1.5 mL screw cap centrifuge tube,intracellular (GC-MS + LCMS),,"metabolome, intracellular",PHE-grown cells,early stationary,early_stat
+in_pvhg_wt_early_stat_1b,4-J,WT,PVHG,early,1,pellet in 1.5 mL screw cap centrifuge tube,intracellular (GC-MS + LCMS),,"metabolome, intracellular",PVHG-grown cells,early stationary,early_stat
+in_pvhg_wt_early_stat_2b,4-K,WT,PVHG,early,2,pellet in 1.5 mL screw cap centrifuge tube,intracellular (GC-MS + LCMS),,"metabolome, intracellular",PVHG-grown cells,early stationary,early_stat
+in_pvhg_wt_early_stat_3b,4-L,WT,PVHG,early,3,pellet in 1.5 mL screw cap centrifuge tube,intracellular (GC-MS + LCMS),,,,,early_stat
