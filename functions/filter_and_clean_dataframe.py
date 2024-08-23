@@ -32,6 +32,9 @@ def filter_and_clean_dataframe(df, labels_to_keep, filter_unknowns=False):
         if zero_fraction >= 0.5:
             cols_to_drop.append(column)
 
+        if 'Unnamed' in column:
+            cols_to_drop.append(column)
+
         if filter_unknowns and 'unknown' in column.lower():
             cols_to_drop.append(column)
 
