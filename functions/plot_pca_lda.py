@@ -29,13 +29,18 @@ def plot_pca_lda(ax, pc_df, ls_df, title, arrow_length=0.5):
                     (row['Principal Component 2'] / norm) * arrow_length * 1.2,
                     ls_df.index[i], color='black', ha='center', va='center', fontsize=10)
 
-    ax.set_title(title, fontsize=20)
-    ax.set_xlabel("Principal Component 1", fontsize=15)
-    ax.set_ylabel("Principal Component 2", fontsize=15)
+    ax.set_title(title, fontsize=24)
+    ax.set_xlabel("Principal Component 1", fontsize=16)
+    ax.set_ylabel("Principal Component 2", fontsize=16)
 
     # Set consistent limits for x and y axes
     ax.set_xlim(-1, 1)
     ax.set_ylim(-1, 1)
+
+    # Set specific ticks for x and y axes
+    ticks = [-1, -0.5, 0, 0.5, 1]
+    ax.set_xticks(ticks)
+    ax.set_yticks(ticks)
 
     # Remove grid lines
     ax.grid(False)
