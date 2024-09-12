@@ -1,0 +1,279 @@
+,Metabolite,KEGG ID
+0,DL-Glutamic acid,Not Found
+1,Sugars -Disaccharride,Request Error
+2,D-glucose-6-phosphate,Not Found
+3,4-Methyl-2-oxopentanoic acid,Not Found
+4,D-Pantothenic acid,Not Found
+5,Succinamide,Not Found
+6,"N,N-dimethyl-L-histidine",Request Error
+7,O-Acetyl-DL-serine,Not Found
+8,N-Methyl-DL-Glutamic acid,Not Found
+9,"2',4'-Dihdyroxyacetophenone",Request Error
+10,Vinyl Carbamate,Not Found
+11,Dialanine,Not Found
+12,Inosine-5'-monophosphate (IMP),Not Found
+13,Uridine-5'-monophosphate (UMP),Not Found
+14,Sugars-Monosaccharides-Hexoses.1,Not Found
+15,N-Acetyl-DL-ornithine,Not Found
+16,Pipecolic acid/Homoproline,Request Error
+17,Ethyl 3-Ureidopropionic acid,Not Found
+18,DL-Arginine,Not Found
+19,1-Vinylimidazole,Not Found
+20,DL-Histidine,Not Found
+21,4-Imidazolemethanol,Not Found
+22,DL-Mandelic acid,Not Found
+23,Sugars-Monosaccharides-Pentoses.2,Not Found
+24,Triisopropanolamine,Not Found
+25,Prolylleucine,Not Found
+26,Methacrylamide,Not Found
+27,Guanosine-5'-monophosphate (GMP),Not Found
+28,Homocysteine thiolactone,Not Found
+29,Adenosine 5'-monophosphate (5'-AMP),Not Found
+30,Maltotriitol,Not Found
+31,DL-Stachydrine,Not Found
+32,L-methionine sulfoxide,Not Found
+33,DL-Isoleucine/DL-Leucine,Request Error
+34,Possible peptide (Glu-Leu),Not Found
+35,cis-4-Hydroxyproline,Not Found
+36,Sugars-Hexoses-Phosphate ,Not Found
+37,"3,4-Dehydroproline",Request Error
+38,Glycolaldehyde Dimer,Not Found
+39,Possible purine,Not Found
+40,Atrazin-2-hydroxy,Not Found
+41,Citroflex A-4,Not Found
+42,Possible Peptide.1,Not Found
+43,Monomethyl glutaric acid,Not Found
+44,Υ-Aminobutyric acid (GABA),Request Error
+45,D-xylulose-5-phosphate,Not Found
+46,Uridine 5'-diphosphate (UDP),Not Found
+47,DL-Serine,Not Found
+48,"Pentulose, 5-phosphate",Request Error
+49,Sugars-Hexoses-Phosphate.1,Not Found
+50,"2,3-Dimethyl-3-hydroxyglutaric acid",Request Error
+51,Nicotinic acid/Niacin,Request Error
+52,DL-Valine/DL-Norvaline,Request Error
+53,2'-Deoxycytidine 5'-diphosphate (dCDP),Not Found
+54,"3,4-dihydroxybenzoic acid (protocatechuic acid)",Request Error
+55,Possible Fatty Acid,Not Found
+56,2-(Dimethylamino)acetonitrile,Not Found
+57,Aminolevulinic acid,Not Found
+58,N-Succinyl-L-diaminopimelic acid,Not Found
+59,N-alpha-Acetyl-L-lysine,Not Found
+60,Glutarylglycine,Not Found
+61,L-Glutamyl-L-glutamic acid,Not Found
+62,2-(Diethylamino)ethanol,Not Found
+63,3-Aminoproline,Not Found
+64,"cis,cis-muconic acid",Request Error
+65,3-(2-Hydroxyphenyl)propanoic acid,Not Found
+66,Bis(methylbenzylidene)sorbitol,Not Found
+67,"3,5-dihydroxybenzoic acid",Request Error
+68,Carbohydrate Phosphate,Not Found
+69,Tributylamine,Not Found
+70,D-Pantothenicacid,Not Found
+71,Dimethyldecylamine,Not Found
+72,DL-Aspartic acid,Not Found
+73,3-Isopropylmalic acid,Not Found
+74,2-Aminopurine,Not Found
+75,Adenosine 3'5'-cyclic monophosphate,Not Found
+76,Allopurinol,Not Found
+77,Riboflavin (Vit B2),Not Found
+78,Aurantioobtusin,Not Found
+79,"2,3-dihydroxyisovaleric acid",Request Error
+80,Possible Carbohydrate.1,Not Found
+81,D-Xylonic acid,Not Found
+82,N-Acetyl-DL-aspartic acid,Not Found
+83,DL-Lactic Acid,Not Found
+84,Sugars-Monosaccharides-Pentoses,Not Found
+85,Acetylsulfaphenazole,Not Found
+86,Acetylpyrazine,Not Found
+87,"Benzene-1,2,4-triol",Request Error
+88,N-Acetylvaline\N-Acetylnorvaline,Request Error
+89,3-Pyridinol,Not Found
+90,"N,N-Dimethylglycine",Request Error
+91,"2,4-Dimethyloxazole",Request Error
+92,"N,N-Dimethyl-histidine",Request Error
+93,1-Acetylimidazole,Not Found
+94,Cyclic adenosine monophosphate (cAMP),Not Found
+95,Phlorobenzophenone,Not Found
+96,2'-Deoxyadenosine-5'-monophosphate (dAMP),Not Found
+97,Adenosine-5-monophosphate,Not Found
+98,N-Acetylasparagine,Not Found
+99,11(E)-Eicosenoic Acid,Not Found
+100,4-aminobutyric acid (GABA),Not Found
+101,2-Foryml-1H-pyrrol,Not Found
+102,Methyl acetoacetic acid,Not Found
+103,Methylmalonic acid semialdehyde,Not Found
+104,Sugars-Deoxy-Hexoses (Rhamnose),Not Found
+105,DL-alpha-Aminoadipic acid,Not Found
+106,Sugars-Alcohol-Pentoses,Not Found
+107,Possible peptide,Not Found
+108,2-formylglutaric acid,Not Found
+109,2'-Deoxyadenosine 5'-monophosphate (dAMP),Not Found
+110,beta-Nicotinamide adenine dinucleotide (NAD+),Request Error
+111,N-acetyl-L-2-aminoadipic acid,Not Found
+112,Deoxycarnitine,Not Found
+113,"trans,trans-muconic acid",Request Error
+114,Tetraglyme,Not Found
+115,Heptadecanoic acid,Not Found
+116,4-hydroxybenzoic acid (p-salicylic acid),Not Found
+117,4-Hydroxy-DL-phenylglycine,Not Found
+118,N-Methylglutamine,Not Found
+119,Methyl bisulfate,Not Found
+120,DL-Malic acid,Not Found
+121,N-Acetyl-DL-glutamic acid,Not Found
+122,4-Guanidinobutanoic acid,Not Found
+123,Possible Phenol,Not Found
+124,Dimethyl anthranilate,Not Found
+125,5-Aminolevulinic acid,Not Found
+126,Flavanone glycoside,Not Found
+127,Possible Lipid,Not Found
+128,N-acetylglycine,Not Found
+129,4-Carboxypyrazole,Not Found
+130,Uridine 5'-diphospho-N-acetylgalactosamine,Not Found
+131,"(S,S)-Tartaric acid",Request Error
+132,Sedoheptulose-7-phosphate,Not Found
+133,"D-Ribulose 1,5-bisphosphate",Request Error
+134,Beta-Ketoadipic acid,Not Found
+135,2-Hydroxyatrazine,Not Found
+136,D-fructose-6-phosphate,Not Found
+137,3-Methyl-2-oxovaleric acid,Not Found
+138,DL-Normetanephrine,Not Found
+139,Sugars-Disaccharides.1,Not Found
+140,"4,5-Pyrimidinediamine,N5,2-dimehtyl-",Request Error
+141,DL-Lysine lactam,Not Found
+142,Gycolic acid,Not Found
+143,Possible Peptide,Not Found
+144,1-Methyl-L-proline,Not Found
+145,"2,4-Dihydroxypyrimidine-5-Carboxylic acid",Request Error
+146,thymidine diphosphate (dTDP),Not Found
+147,Υ-Glutamylcysteine,Request Error
+148,1-pyrroline-5-carboxylic acid,Not Found
+149,Desaminometribuzin,Not Found
+150,"2,3-dihydro-1H-pyrrole-2-carboxylic acid",Request Error
+151,"1,4-Diamino-2-butyne",Request Error
+152,DL-Proline.1,Not Found
+153,4-Dodecylbenzenesulfonic acid,Not Found
+154,Trifluoroacetic acid.1,Not Found
+155,2-Hydroxycinnamaldehyde,Not Found
+156,O-propenoyl-D-carnitine,Not Found
+157,DL-Proline,Not Found
+158,DL-Homoserine,Not Found
+159,2'-Deoxyguanosine-5'-diphosphate (dGDP),Not Found
+160,Aminoproline,Not Found
+161,Cytidine 5′-monophosphate (CMP),Request Error
+162,"1,4-Dimethylimidazole",Request Error
+163,3-oxopalmitic acid,Not Found
+164,2'-Deoxycytidine 5'-monophosphate (dCMP),Not Found
+165,"2,6-Diamino-4-hexenoic acid",Request Error
+166,N-Methyl-DL-Aspartic acid,Not Found
+167,"(2S,4S)-4-Amino-2-hydroxy-2-methylpentanedioic acid",Request Error
+168,alpha-Methylene-gamma-butyrolactone (Tulipalin A),Not Found
+169,"Trans-Cyclohexane-1,2-diol",Request Error
+170,Sugars-Deoxy-Hexoses,Not Found
+171,3-Amino-2-piperidone,Not Found
+172,Methyl mesylate,Not Found
+173,DL-3-Aminoisobutyric acid,Not Found
+174,Uridine diphosphate-N-acetylgalactosamine,Not Found
+175,PPG n4,Not Found
+176,2'-Deoxyadenosine-5'-diphosphate (dADP),Not Found
+177,Levulinic acid,Not Found
+178,Possible Peptide.4,Not Found
+179,Guanosine-5'-monophosphate,Not Found
+180,DL-Propargylglycine,Not Found
+181,3'-Adenosine monophosphate (3'-AMP),Not Found
+182,Possible Carbohydrate,Not Found
+183,2'-Deoxycytidine 5'-monophosphoric acid,Not Found
+184,3-Phosphoglyceric acid,Not Found
+185,Trans-10-Heptadecenoic acid,Not Found
+186,Trisaccharide 6'-Phosphate,Not Found
+187,2-Oxovaleric acid,Not Found
+188,PPG n5,Not Found
+189,Trifluoroacetic acid,Not Found
+190,"2,3-dihydroxybenzoic acid",Request Error
+191,Trisaccharide-phosphate,Not Found
+192,N-Alpha-Acetyl-L-Lysine,Not Found
+193,1-(Diethylamino)ethanol,Not Found
+194,DL-Threonine,Not Found
+195,Prostaglandin F3α,Request Error
+196,(2S)-2-Piperazinecarboxamide\(2R)-2-Piperazinecarboxamide,Request Error
+197,"cis,cis-Muconic acid",Request Error
+198,Possible peptide.1,Not Found
+199,DL-Isoleucine,Not Found
+200,Inosine 5'-monophosphate (IMP),Not Found
+201,Methyl Dehydrojasmonate,Not Found
+202,N-Acetylglycine,Not Found
+203,Possible Carbohydrate (disaccharide),Not Found
+204,Shikimate-3-phosphate,Not Found
+205,Amino-Sugars-C8,Not Found
+206,Cytidine 5'-monophosphate (CMP),Not Found
+207,N-Formyl-DL-glutamic acid,Not Found
+208,"LL-2,6-diaminoheptanedioate",Request Error
+209,Possible Peptide.3,Not Found
+210,"1,3-Diphenylurea",Request Error
+211,Uridine 5'-diphospho-monosaccharide,Not Found
+212,Cyclic guanosine monophosphate (cGMP),Not Found
+213,Iminodiacetic acid,Not Found
+214,4-hydroxy-3-methoxybenzoic acid (isovanillic acid),Not Found
+215,DL-Tyrosine,Not Found
+216,"N6,N6,N6-Trimethyl-L-lysine",Request Error
+217,Benzealdehyde,Not Found
+218,Adenosine 5' monophosphate (AMP),Not Found
+219,Sedoheptulose anhydride monohydrate,Not Found
+220,Possibe Peptide,Not Found
+221,Sugars-Hexoses-Phosphate,Not Found
+222,Flavanone glycoside.1,Not Found
+223,4-Acetamidobutyric acid,Not Found
+224,"3,4-Diaminopyridine",Request Error
+225,Flavin adenine dinucleotide (FAD),Not Found
+226,"2,2-Bis(hydroxymethyl)propionic acid",Request Error
+227,DL-Allothreonine,Not Found
+228,Inosine diphosphate (IDP),Not Found
+229,"Pentulose, 5-phosphate.1",Request Error
+230,Trehalose-6-phosphate,Not Found
+231,"1,4-butanediol",Request Error
+232,8-Hydroxyoctanoic acid,Not Found
+233,Nicotinic acid mononucleotide,Not Found
+234,Methyl stearate,Not Found
+235,Prolylglycine,Not Found
+236,"2,5-Dimethyloxazole",Request Error
+237,Monomethyl phthalate,Not Found
+238,Glycerylphosphorylethanolamine,Not Found
+239,Possible Lipid (C16),Not Found
+240,Ophthalmic acid,Not Found
+241,Sugars-Monosaccharides-Hexoses,Not Found
+242,DL-Ornithine.1,Not Found
+243,Hydroxymethanesulfonic acid,Not Found
+244,MHPG,Not Found
+245,D-Ribose-5-phosphate,Not Found
+246,Sugar-Tetrasacharride,Not Found
+247,N-Acetylvaline,Not Found
+248,4-hydroxy-3-methoxybenzoic acid (vanillic acid),Not Found
+249,"Adenosine 3',5'-Biphosphate",Request Error
+250,N-Acetyl-DL-Leucine,Not Found
+251,Possible Peptide.2,Not Found
+252,N-Acetyl-L-proline,Not Found
+253,DL-Glutamine,Not Found
+254,5'-S-Methyl-5'-thioadenosine,Not Found
+255,4-Acetamidobutanoic acid,Not Found
+256,Myristyl sulfate,Not Found
+257,DL-Carnitine,Not Found
+258,4-hydroxyphenylpyruvic acid,Not Found
+259,N-methylalanine,Not Found
+260,Guanosine-5'-diphosphate (GDP),Not Found
+261,Thymidine-5'-phosphate (dTMP),Not Found
+262,Adenosine monophosphate (AMP),Not Found
+263,Fenugreekine,Not Found
+264,Amino-Sugars-C6,Not Found
+265,DL-Tryptophan,Not Found
+266,Potential Carbohydrate,Not Found
+267,Sugars-Disaccharides,Not Found
+268,N6-Methyllysine,Not Found
+269,Sugars-Monosaccharides-Pentoses.1,Not Found
+270,"2,2,6,6-Tetramethyl-4-piperidinol",Request Error
+271,Dodecamethylcyclohexasiloxane,Not Found
+272,N-epsilon-Acetyl-L-lysine,Not Found
+273,Sugars-Monosaccharides-Hexoses.2,Not Found
+274,2-phosphoglyceric acid,Not Found
+275,Sugars-Hexoses-Phosphate.2,Not Found
+276,Uridine 5'-diphospho-N-acetylglucosamine,Not Found
+277,DL-allylglycine,Not Found

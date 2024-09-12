@@ -1,0 +1,283 @@
+Metabolite,KEGG ID,KEGG Pathways
+Arecoline,cpd:C10129,
+L-citrulline,cpd:C00327,map00220;map01100;map01110;map01230
+Phosphonoacetic acid,cpd:C05682,map00440;map01100;map01120
+L-Cysteic acid,cpd:C00506,map00270;map00430;map01100;map04080
+Lumichrome,cpd:C01727,map00740
+L-proline,cpd:C00148,map00330;map00332;map00333;map00401;map00404;map00470;map00970;map01100;map01110;map01230;map02010;map04974;map04978;map05230
+Nicotinic acid,cpd:C00153,map00760;map01100;map01240;map04212;map04977
+Malonic acid,cpd:C00383,map00061;map00240;map00410;map01100;map01212
+Isoxazolin-5-one,cpd:C20891,
+L-valine,cpd:C00183,map00280;map00290;map00311;map00460;map00770;map00966;map00970;map01060;map01063;map01100;map01110;map01210;map01230;map01240;map02010;map04974;map04978;map05230
+12-Hydroxydodecanoic acid,cpd:C08317,
+16-Hydroxyhexadecanoic acid,cpd:C18218,map00073;map01100
+Homoserine,cpd:C00263,map00260;map00270;map00300;map00920;map01100;map01110;map01120;map01230
+Picolinamide,cpd:C01950,
+Adipic acid,cpd:C00322,map00300;map00310;map00380;map00680;map00785;map01100;map01110;map01120;map01210;map01230;map01240
+Cyclopentanone,cpd:C00557,
+L-glutamine,cpd:C00064,map00220;map00230;map00240;map00250;map00470;map00630;map00750;map00910;map00970;map01060;map01100;map01110;map01120;map01230;map01232;map01240;map02010;map02020;map04724;map04727;map04964;map04974;map04978;map05230
+Phosphoric acid,cpd:C00009,map00190;map00195;map02010;map02020;map02024;map04111;map04928;map04978;map05012;map05022
+Glyceric acid,cpd:C00258,map00030;map00260;map00561;map00630;map00680;map01100;map01110;map01120;map01200
+3-Amino-5-Hydroxybenzoic acid,cpd:C12107,map01051;map01110
+Erythritol,cpd:C00503,map02010
+2'-Deoxycytidine 5'-Monophosphate,cpd:C00239,map00240;map01100;map01232
+ADP-glucose,cpd:C00498,map00500;map00520;map01100;map01110;map01250
+L-aspartic acid,cpd:C00049,map00220;map00250;map00260;map00261;map00270;map00300;map00340;map00410;map00460;map00470;map00710;map00760;map00770;map00970;map00997;map00998;map00999;map01060;map01064;map01070;map01100;map01110;map01120;map01200;map01210;map01230;map01240;map02010;map02020;map02030;map04080;map04974;map05230
+Hypoxanthine,cpd:C00262,map00230;map01100;map01232
+Oleic acid,cpd:C00712,map00061;map00073;map01040;map01060;map04212
+Maleamic acid,cpd:C01596,map00760;map01100;map01120
+Meso-Tartaric Acid,cpd:C00552,map00630;map01100
+Nicotinamide,cpd:C00003,map00190;map00730;map00760;map00983;map01100;map01240;map04148;map04152;map04211;map04212;map04925;map04936;map04977;map05208
+Adenosine,cpd:C00002,map00190;map00195;map00230;map00908;map00998;map01100;map01110;map01232;map01240;map03070;map04020;map04066;map04080;map04142;map04148;map04217;map04611;map04621;map04714;map04721;map04742;map04750;map04911;map04917;map04924;map04930;map05012;map05022;map05133;map05410;map05415
+Betaine,cpd:C00318,map04714;map04976;map05415
+Pyrogallic acid,cpd:C01108,map00627;map01120;map07216
+Thymidine,cpd:C00214,map00240;map01100;map01232
+D-mannose,cpd:C00096,map00051;map00053;map00510;map00520;map00541;map00571(G10614);map01100;map01110;map01240;map01250
+L-lysine,cpd:C00047,map00300;map00310;map00470;map00780;map00960;map00970;map00997;map01060;map01064;map01100;map01110;map01120;map01210;map01230;map02010;map04974
+Phthalic acid,cpd:C01606,map00624;map01100;map01120;map01220;map02010
+delta-Valerolactone,cpd:C02240,
+Maltotriose,cpd:C01835,map02010;map04973
+Fumaric acid,cpd:C00122,map00020;map00190;map00220;map00250;map00350;map00360;map00620;map00643;map00650;map00720;map00760;map01060;map01061;map01062;map01063;map01064;map01065;map01066;map01070;map01100;map01110;map01120;map01200;map01220;map02020;map04922;map05200;map05211;map05230
+Lactic acid,cpd:C00186,map00010;map00051;map00620;map00640;map00643;map01100;map01110;map01120;map04024;map04066;map04148;map04922;map05230
+Lactobionic acid,cpd:C22921,
+Guanosine,cpd:C00035,map00230;map01100;map01232;map04014;map04015;map04137;map04140;map04144
+3-Hydroxybutyric acid,cpd:C00188,map00260;map00261;map00290;map00470;map00860;map00970;map01060;map01100;map01110;map01120;map01230;map02010;map04974;map04978
+Tyrosol,cpd:C06044,map00350;map01100
+D-glucose,cpd:C00029,map00040;map00052;map00053;map00500;map00520;map00524;map00541;map00552(G10608);map00561;map00908;map01051;map01060;map01100;map01110;map01240;map01250
+Glycerol 3-phosphate,cpd:C00093,map00561;map00564;map01100;map01110;map02010;map05231
+N-Methylolacrylamide,cpd:C19456,
+Glycolic acid,cpd:C00160,map00361;map00625;map00630;map01100;map01110;map01120;map01200
+Thymine,cpd:C00178,map00240;map01100;map01232
+Vanillin,cpd:C00755,map00627;map00996;map01061;map01063;map01100;map01110;map01120;maps
+D-lyxose,cpd:C00476,map00040
+Methylguanine,cpd:C02230,
+Succinic acid,cpd:C00036,map00010;map00020;map00250;map00362;map00470;map00620;map00630;map00680;map00710;map00720;map00946;map00997;map00998;map00999;map01060;map01061;map01062;map01063;map01064;map01065;map01066;map01070;map01100;map01110;map01120;map01200;map01210;map01230;map01240;map02020;map04922;map04964;map05230
+TRANS-ACONITATE,cpd:C02341,map00660;map01100
+D-Sedoheptulose 7-phosphate,cpd:C05382,map00030;map00540;map00710;map01100;map01110;map01120;map01200;map01230;map01250
+Nitrobenzene,cpd:C00870,map00627;map01120
+Isomaltose,cpd:C00252,map00500;map01100
+Pseudouridine 5'-phosphate,cpd:C01168,map00240;map01100
+Sulfuric acid,cpd:C00059,map00230;map00261;map00270;map00920;map01100;map01110;map01120;map02010;map02024
+Dimethylethanolamine,cpd:C04308,map00564;map01100;map01110
+N(PI)-Methyl-L-Histidine,cpd:C01152,map00340;map01100
+furoic acid,cpd:C01546,map00365;map01100;map01120
+Furoic acid,cpd:C01546,map00365;map01100;map01120
+1-Methyladenine,cpd:C02216,
+L-ornithine,cpd:C00077,map00220;map00330;map00470;map00480;map00997;map00998;map01060;map01064;map01100;map01110;map01210;map01230;map02010;map04148
+UDP-galactose,cpd:C00052,map00052;map00520;map00541;map00552(G10609);map01100;map01250
+Phenylpyruvic acid,cpd:C00166,map00360;map00400;map00470;map00960;map01060;map01100;map01110;map01210;map01230
+Salicylic acid,cpd:C00805,map00621;map00624;map00626;map00996;map01053;map01061;map01070;map01100;map01110;map01120;map01220;map04075;map04976
+Tris(2-butoxyethyl) phosphate,cpd:C14446,
+Urocanic acid,cpd:C00785,map00340;map01100
+Nootkatone,cpd:C17914,
+Picolinic acid,cpd:C03340,
+N-Methyl-D-Aspartic acid,cpd:C12269,
+Shikimic acid,cpd:C00493,map00400;map00996;map00999;map01060;map01061;map01063;map01070;map01100;map01110;map01230;map01240
+Citrulline,cpd:C00327,map00220;map01100;map01110;map01230
+Dethiobiotin,cpd:C01909,map00780;map01100;map01240
+Homocitrulline,cpd:C02427,
+Methyl phosphate,cpd:C00129,map00900;map00997;map00998;map01060;map01062;map01070;map01100;map01110;map04216
+N-methylethanolamine phosphate,cpd:C01210,map00564
+Pyroglutamic acid,cpd:C01879,map00480;map01100
+D-threitol,cpd:C16884,
+5-Aminovaleric acid,cpd:C00431,map00310;map00330;map00470;map01100;map01120
+2-hydroxypyridine,cpd:C02502,
+Carbonate ion,cpd:C14514,
+Gluconic acid,cpd:C00198,map00030;map01100;map01110;map01120;map01200
+Cyclohexenone,cpd:C12262,
+4'-Hydroxyacetophenone,cpd:C10684,
+Hexanoic acid,cpd:C00047,map00300;map00310;map00470;map00780;map00960;map00970;map00997;map01060;map01064;map01100;map01110;map01120;map01210;map01230;map02010;map04974
+4-Oxoproline,cpd:C01877,
+10-Hydroxydecanoic acid,cpd:C02774,
+Daminozide,cpd:C10996,
+2'-Deoxycytidine,cpd:C00239,map00240;map01100;map01232
+Histamine,cpd:C00388,map00340;map01065;map01100;map01110;map04080;map04664;map04721;map04750;map04971;map04974;map05310;map07227
+2-Oxoglutaric acid,cpd:C01127,map00630;map01100
+Cytosine,cpd:C00380,map00240;map01100;map01232
+Oxypurinol,cpd:C07599,
+Muconic acid,cpd:C02220,map00380;map01100
+Pyrophosphoric Acid,cpd:C00013,map00190;map05012;map05022
+D-ribose,cpd:C00117,map00030;map00230;map00440;map00710;map00750;map01100;map01110;map01120;map01200;map01230;map01240;map04918
+4-Aminopyridine,cpd:C13728,
+Pyruvic acid,cpd:C00022,map00010;map00020;map00030;map00040;map00053;map00250;map00260;map00261;map00270;map00290;map00330;map00350;map00360;map00362;map00430;map00440;map00470;map00620;map00621;map00622;map00630;map00650;map00660;map00680;map00710;map00720;map00730;map00760;map00770;map00785;map00900;map00997;map00998;map01060;map01061;map01062;map01063;map01064;map01065;map01066;map01070;map01100;map01110;map01120;map01200;map01210;map01220;map01230;map01240;map01502;map02060;map04066;map04152;map04911;map04922;map04930;map04931;map05230;map05415
+Xanthoxylin,cpd:C10726,
+Itaconic acid,cpd:C00490,map00660;map01100
+Phosphocreatine,cpd:C02305,map00330;map01100
+Methyl Vanillic acid,cpd:C05616,map00627;map01120
+N-Methyl-L-Glutamic acid,cpd:C01046,map00680;map01100;map01120
+5-Hydroxymethyluracil,cpd:C03088,
+Hydroquinone,cpd:C00530,map00350;map00361;map00362;map00363;map00627;map01100;map01120;map05208
+Glutaric acid,cpd:C00026,map00020;map00040;map00053;map00220;map00250;map00300;map00310;map00340;map00365;map00430;map00470;map00630;map00650;map00660;map00720;map00785;map00997;map00998;map01060;map01061;map01062;map01063;map01064;map01065;map01066;map01070;map01100;map01110;map01120;map01200;map01210;map01230;map01240;map04066;map04727;map04922;map04964;map04976;map05230
+Benzaldehyde,cpd:C00261,map00623;map00627;map01100;map01120;map01220
+Isophthalic acid,cpd:C14097,map00626;map01120
+Carnosine,cpd:C00386,map00340;map00410;map01100
+alpha-ketoglutaric acid,cpd:C00026,map00020;map00040;map00053;map00220;map00250;map00300;map00310;map00340;map00365;map00430;map00470;map00630;map00650;map00660;map00720;map00785;map00997;map00998;map01060;map01061;map01062;map01063;map01064;map01065;map01066;map01070;map01100;map01110;map01120;map01200;map01210;map01230;map01240;map04066;map04727;map04922;map04964;map04976;map05230
+2'-Deoxyguanosine,cpd:C00286,map00230;map01100;map01232
+L-glutamic acid,cpd:C00025,map00220;map00250;map00330;map00332;map00340;map00430;map00470;map00480;map00524;map00630;map00650;map00660;map00860;map00910;map00970;map00997;map00998;map01060;map01064;map01100;map01110;map01120;map01200;map01210;map01230;map01240;map02010;map02020;map04068;map04072;map04080;map04216;map04540;map04713;map04720;map04721;map04723;map04724;map04727;map04730;map04742;map04964;map04974;map05014;map05016;map05017;map05022;map05030;map05031;map05033;map05034;map05230
+Norvaline,cpd:C01799,
+6-hydroxynicotinic acid,cpd:C01020,map00760;map01100;map01120
+Methylmalonic acid,cpd:C02170,map00240;map00280;map00640;map01100
+S-Adenosyl-L-homocysteine,cpd:C00021,map00270;map01100;map01230;map01240;map05208
+3-Phosphoglycerate,cpd:C00197,map00010;map00030;map00260;map00270;map00561;map00630;map00680;map00710;map00997;map00998;map01060;map01061;map01062;map01063;map01064;map01065;map01066;map01070;map01100;map01110;map01120;map01200;map01230;map01240;map04922;map05230
+Phosphate Ion,cpd:C01268,map00740;map01100;map01110;map01240
+DL-Phenylalanine,cpd:C11341,
+Carbonate Ion,cpd:C14514,
+Bisphenol B,cpd:C10269,
+Succinyl proline,cpd:C11711,map07217
+Anthranilic acid,cpd:C00108,map00380;map00400;map00405;map00621;map00627;map00996;map00997;map00998;map00999;map01060;map01061;map01063;map01070;map01100;map01110;map01120;map01220;map01230;map07110
+Cyanuric acid,cpd:C06554,map00791;map01100;map01120
+L-malic acid,cpd:C00149,map00020;map00620;map00630;map00680;map00710;map00720;map01060;map01061;map01062;map01063;map01064;map01065;map01066;map01070;map01100;map01110;map01120;map01200;map02020;map04742;map04922;map04964;map05200;map05211;map05230
+1-Aminocyclopropane-1-carboxylic acid,cpd:C01234,map00270;map01060;map01070;map01100;map01110
+L-threonine,cpd:C00188,map00260;map00261;map00290;map00470;map00860;map00970;map01060;map01100;map01110;map01120;map01230;map02010;map04974;map04978
+Diethanolamine,cpd:C06772,map00564
+Pantothenic acid,cpd:C00864,map00410;map00770;map01100;map01110;map01240;map04977
+Phenol,cpd:C00102,
+Isocitric acid,cpd:C00311,map00020;map00630;map00720;map01060;map01061;map01062;map01063;map01064;map01065;map01066;map01070;map01100;map01110;map01120;map01200;map01210;map01230;map01240;map04922;map05230
+Metribuzin,cpd:C14332,
+Toluene,cpd:C00556,map00623;map01100;map01120;map01220
+2-Isopropylmalic acid,cpd:C02504,map00290;map00620;map01100;map01110;map01210;map01230
+3-phosphoglycerate,cpd:C00197,map00010;map00030;map00260;map00270;map00561;map00630;map00680;map00710;map00997;map00998;map01060;map01061;map01062;map01063;map01064;map01065;map01066;map01070;map01100;map01110;map01120;map01200;map01230;map01240;map04922;map05230
+N6-Acetyl-L-lysine,cpd:C01997,
+2-isopropylmalic acid,cpd:C02504,map00290;map00620;map01100;map01110;map01210;map01230
+2-Oxobutanoic acid,cpd:C00109,map00260;map00270;map00290;map00640;map00660;map01100;map01110;map01210;map01230
+5-Aminopentanamide,cpd:C00990,map00310;map01100;map01120
+L-alanine,cpd:C00041,map00250;map00270;map00430;map00450;map00470;map00710;map00970;map00997;map01060;map01100;map01110;map01120;map01200;map01210;map01230;map01502;map02010;map04122;map04974;map04978;map05230
+Tricyclazole,cpd:C18492,
+Uridine,cpd:C00015,map00240;map00908;map01100;map01232;map01240;map04080
+O-phospho-L-serine,cpd:C01005,map00260;map00270;map00680;map00970;map00997;map00998;map01100;map01110;map01120;map01200;map01230
+2-hydroxybutyric acid,cpd:C05984,map00640
+4-hydroxy-3-methoxybenzyl alcohol,cpd:C06317,map00627;map01120
+Phytanic acid,cpd:C01607,
+2-Aminoisobutyric acid,cpd:C03665,
+N-ethylglycine,cpd:C11735,
+Biotin,cpd:C00120,map00780;map01100;map01240;map02010;map04977
+3-(4-Hydroxyphenyl)lactate,cpd:C03672,
+L-pyroglutamic acid,cpd:C01879,map00480;map01100
+N-Acetyl-D-Tryptophan,cpd:C03137,
+Benzoic acid,cpd:C00108,map00380;map00400;map00405;map00621;map00627;map00996;map00997;map00998;map00999;map01060;map01061;map01063;map01070;map01100;map01110;map01120;map01220;map01230;map07110
+Scyllo-inositol,cpd:C01214,map00521;map01110
+Phenyl Acetic,cpd:C00544,map00130;map00350;map00643;map01100;map01120;map01240
+UMP,cpd:C00105,map00240;map01100;map01232;map01240
+L-isoleucine,cpd:C00407,map00280;map00290;map00460;map00960;map00966;map00970;map01060;map01064;map01100;map01110;map01210;map01230;map02010;map04974;map04978;map05131;map05230
+Diacetyl,cpd:C00741,map00650;map01110
+2-aminoadipic acid,cpd:C00956,map00300;map00310;map00311;map01100;map01110;map01120;map01210;map01230
+D-xylose,cpd:C00181,map00040;map00520;map01100;map02010
+Putrescine,cpd:C00134,map00330;map00470;map00480;map00960;map01060;map01064;map01100;map01110;map02010;map04148;map04974
+5-Aminopentanoic acid,cpd:C00431,map00310;map00330;map00470;map01100;map01120
+Triethanolamine,cpd:C06771,map00564
+Melibiose,cpd:C05400,map00052
+L-phenylalanine,cpd:C00079,map00360;map00400;map00460;map00470;map00940;map00960;map00966;map00970;map00996;map00997;map00999;map01060;map01061;map01063;map01064;map01070;map01100;map01110;map01210;map01230;map02010;map04974;map04978;map05230
+Tyramine,cpd:C00483,map00350;map00680;map00950;map01060;map01063;map01100;map01110;map01240;map04080;map04974
+GDP-Glucose,cpd:C00394,map00500;map00520;map01100;map01250
+Adenine,cpd:C00003,map00190;map00730;map00760;map00983;map01100;map01240;map04148;map04152;map04211;map04212;map04925;map04936;map04977;map05208
+2-Oxoadipic acid,cpd:C00322,map00300;map00310;map00380;map00680;map00785;map01100;map01110;map01120;map01210;map01230;map01240
+Porphine,cpd:C09541,map00950;map01063
+Myristic acid,cpd:C06424,map00061;map01100
+4-Hydroxybenzaldehyde,cpd:C00633,map00363;map00623;map00627;map01061;map01100;map01120
+Urocortisol,cpd:C05472,map00140
+Arachidic acid,cpd:C06425,map01040
+Xanthine,cpd:C00262,map00230;map01100;map01232
+Glycerophosphoric acid,cpd:C00093,map00561;map00564;map01100;map01110;map02010;map05231
+Succinic semialdehyde,cpd:C00232,map00250;map00350;map00650;map00720;map00750;map00760;map01100;map01120;map01200;map02024
+Caprolactam,cpd:C02837,
+2-Ketobutyric acid,cpd:C00109,map00260;map00270;map00290;map00640;map00660;map01100;map01110;map01210;map01230
+Maltol,cpd:C11918,map00523;map01110
+1-hexadecanol,cpd:C00823,map00071
+O-succinyl-L-homoserine,cpd:C01118,map00270;map00920;map01100;map01110;map01230
+L-serine,cpd:C00065,map00260;map00261;map00270;map00460;map00470;map00564;map00600;map00630;map00680;map00920;map00970;map00997;map00998;map01054;map01060;map01100;map01110;map01120;map01200;map01230;map01240;map01502;map02010;map04071;map04974;map04978;map05230
+Gluconolactone,cpd:C00198,map00030;map01100;map01110;map01120;map01200
+Diaminopimelic acid,cpd:C00666,map00300;map00470;map01100;map01110;map01120;map01230
+Octanal,cpd:C01545,
+Palmitic acid,cpd:C00249,map00061;map00062;map00071;map00073;map01040;map01060;map01100;map01212
+D-Glucuronolactone,cpd:C02670,map00053;map01100
+Methylimidazoleacetic acid,cpd:C05828,map00340;map01100
+D-galactose,cpd:C00052,map00052;map00520;map00541;map00552(G10609);map01100;map01250
+Glyoxylic acid,cpd:C00048,map00230;map00232;map00260;map00330;map00625;map00630;map00660;map00680;map00720;map01100;map01110;map01120;map01200
+O-Acetyl-L-homoserine,cpd:C01077,map00270;map01100
+Pimelic acid,cpd:C00666,map00300;map00470;map01100;map01110;map01120;map01230
+Turanose,cpd:C19636,
+N-Acetylmuramic acid,cpd:C01050,map00520;map00550;map01100;map01250
+5'-methylthioadenosine,cpd:C00170,map00270;map00908;map01060;map01100
+DL-Alanine,cpd:C15311,
+D-sorbitol,cpd:C00794,map00051;map00052;map01100;map02010;map02060;map05415
+S-Adenosylmethionine,cpd:C00019,map00261;map00270;map00330;map00908;map00999;map01060;map01070;map01100;map01110;map01230;map01240;map04122;map04148;map05208
+Ectoine,cpd:C06231,map00260;map01100;map01120
+D-arabitol,cpd:C01904,map00040;map01100
+4-guanidinobutanal,cpd:C02647,map00330;map01100
+Simetryn,cpd:C14457,
+Sugar Phosphate,cpd:C00934,
+Torcitabine,cpd:C21554,
+Guanine,cpd:C00242,map00230;map01100;map01232
+1-Piperideine,cpd:C00450,map00310;map00960;map01060;map01064;map01100;map01110;map01120
+Citramalic acid,cpd:C00815,
+4-Pyridoxate,cpd:C00847,map00750;map01100;map01120
+N-methyl-2-oxoglutaramic acid,cpd:C03623,
+Pentadecanoic acid,cpd:C13426,
+Desthiobiotin,cpd:C01909,map00780;map01100;map01240
+2-Aminoadipic acid,cpd:C00956,map00300;map00310;map00311;map01100;map01110;map01120;map01210;map01230
+L-homoserine,cpd:C00263,map00260;map00270;map00300;map00920;map01100;map01110;map01120;map01230
+UDP-monosaccharide,cpd:C05227,
+Glycylproline,cpd:C01632,
+Ethanolamine,cpd:C00157,map00564;map00590;map00591;map00592;map01100;map01110;map04723;map05231
+Nonanoic acid,cpd:C01037,map00780;map01100;map01240
+ADP-ribose,cpd:C00301,map00230;map01100
+4-tert-Octylphenol,cpd:C14205,
+Oxalic acid,cpd:C00209,map00230;map00625;map00630;map01100;map01120
+N-acetyl-D-glucosamine,cpd:C00043,map00520;map00524;map00540;map00541;map00550;map00552;map00552(G10610);map00563(G10610);map00572(G10610);map01100;map01250;map01502;map04931;map05415
+Palmitoleic acid,cpd:C08362,map00061;map01100
+Glycine,cpd:C00037,map00120;map00230;map00260;map00310;map00440;map00460;map00470;map00480;map00630;map00680;map00730;map00785;map00860;map00970;map01060;map01100;map01110;map01120;map01200;map01230;map01240;map01502;map02010;map02026;map04080;map04721;map04974;map04978;map05230
+Trehalose,cpd:C00689,map00500;map01100;map01110;map02060;map04723
+3-hydroxybutyric acid,cpd:C00188,map00260;map00261;map00290;map00470;map00860;map00970;map01060;map01100;map01110;map01120;map01230;map02010;map04974;map04978
+Chloric acid,cpd:C01327,map04742;map04974
+Oxazolidinone,cpd:C06695,
+Pyrophosphate,cpd:C00013,map00190;map05012;map05022
+Crotonic acid,cpd:C01771,
+Thidiazuron,cpd:C18812,
+Lauric acid,cpd:C02679,map00061;map00333;map01100;map01110
+L-histidine,cpd:C00135,map00340;map00404;map00410;map00470;map00970;map01060;map01065;map01100;map01110;map01230;map02010;map04974;map05230
+L-leucine,cpd:C00123,map00280;map00290;map00966;map00970;map01060;map01065;map01100;map01110;map01210;map01230;map02010;map04150;map04974;map04978;map05131;map05230
+Phloroglucinol,cpd:C02183,map00627;map00946;map01100;map01120
+Allantoin,cpd:C01551,
+Methylsuccinic acid,cpd:C02614,map00660;map01100
+3-hydroxyanthranilic acid,cpd:C00632,map00380;map00627;map01100;map01120;map01240
+Caprylic acid,cpd:C06423,map00061;map00785;map01060;map01066;map01100;map01240
+Dehydroalanine,cpd:C02218,map00270;map01100
+Maltose,cpd:C00208,map00500;map01100;map01110;map02010;map02030;map02060;map04742;map04973
+Inosine,cpd:C00081,map00230;map01100;map01232
+1-Naphthaleneacetic acid,cpd:C18534,
+Stearic acid,cpd:C01530,map00061;map01040;map01060;map01100;map04745
+Gentisic acid,cpd:C00544,map00130;map00350;map00643;map01100;map01120;map01240
+UDP,cpd:C00015,map00240;map00908;map01100;map01232;map01240;map04080
+Citric acid,cpd:C00158,map00020;map00250;map00630;map00720;map01053;map01060;map01061;map01062;map01063;map01064;map01065;map01066;map01070;map01100;map01110;map01120;map01200;map01210;map01230;map01240;map02020;map04742;map04922;map05230
+Beta-alanine,cpd:C00099,map00240;map00410;map00640;map00770;map01100;map01110;map01240;map04080;map04974
+Oxooctadecanoic acid,cpd:C00869,
+DL-Ornithine,cpd:C07997,
+Ethyl glucuronide,cpd:C11584,
+Taurine,cpd:C00245,map00120;map00430;map00920;map01100;map02010;map04080
+Hesperetin,cpd:C01709,map00941
+Chlorogenic acid,cpd:C00852,map00940;map00941;map00945;map01110
+Protocatechuic acid,cpd:C00230,map00362;map00400;map00623;map00624;map00627;map01053;map01061;map01100;map01110;map01120;map01220
+Furfural,cpd:C11101,map00365;map01120
+2-Keto-4-methylthiobutyric acid,cpd:C01180,map00270;map00470;map00966;map01060;map01100;map01110;map01210
+Azelaic acid,cpd:C08261,
+Chlormequat,cpd:C18585,
+N-Acetylneuraminic acid,cpd:C00270,map00520;map00541;map01100;map01250
+Pentoxifylline,cpd:C07424,
+2-hydroxyglutaric acid,cpd:C02630,map00650;map00660;map01100
+Beta- alanine,cpd:C00079,map00360;map00400;map00460;map00470;map00940;map00960;map00966;map00970;map00996;map00997;map00999;map01060;map01061;map01063;map01064;map01070;map01100;map01110;map01210;map01230;map02010;map04974;map04978;map05230
+Myo-inositol,cpd:C00137,map00052;map00053;map00521;map00562;map01100;map01110;map01120;map01250;map02010;map04070
+Pipecolic acid,cpd:C00408,map00310;map00960;map01060;map01064;map01100;map01110;map01120
+furan-2(5H)-one,cpd:C06316,map00053;map01100
+Phosphoenolpyruvate,cpd:C00074,map00010;map00020;map00400;map00440;map00620;map00680;map00710;map00720;map00996;map00998;map00999;map01060;map01061;map01062;map01063;map01070;map01100;map01110;map01120;map01200;map01230;map01240;map02060;map04922;map04964;map05230
+1- Kestose,cpd:C03661,
+3-Hydroxybenzaldehyde,cpd:C03067,map00623;map01120;map01220
+Uracil,cpd:C00106,map00240;map00410;map00770;map01100;map01232
+L-cysteine,cpd:C00097,map00260;map00270;map00311;map00332;map00430;map00460;map00470;map00480;map00730;map00770;map00920;map00970;map01060;map01100;map01110;map01120;map01200;map01230;map01240;map04122;map04216;map04974;map05230
+5'-Deoxyadenosine,cpd:C05198,
+Gallic acid,cpd:C01108,map00627;map01120;map07216
+Myo-Inositol,cpd:C00137,map00052;map00053;map00521;map00562;map01100;map01110;map01120;map01250;map02010;map04070
+Aflatoxin G2,cpd:C16754,map00254;map01100;map01110
+L-tyrosine,cpd:C00082,map00130;map00261;map00350;map00360;map00400;map00401;map00460;map00680;map00730;map00940;map00950;map00965;map00966;map00970;map00997;map00998;map00999;map01055;map01059;map01060;map01063;map01100;map01110;map01210;map01230;map01240;map04728;map04916;map04917;map04974;map05012;map05030;map05031;map05034;map05230
+Catechol,cpd:C00090,map00361;map00362;map00364;map00621;map00624;map00626;map00627;map01100;map01120;map01220
+Phosphoglycolic acid,cpd:C00988,map00630;map01100;map01110;map01200
+2-Hydroxybutyric acid,cpd:C05984,map00640
