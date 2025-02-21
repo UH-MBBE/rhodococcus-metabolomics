@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 from sklearn.discriminant_analysis import LinearDiscriminantAnalysis as LDA
 
-def get_lda_coordinates(df):
+def get_lda_coordinates(df, data_source):
     df = df.copy()
 
     # Add the group to the dataframe for color of the points
@@ -29,8 +29,11 @@ def get_lda_coordinates(df):
     # rename 'LD' columns to 'Principal Component' columns
     lda_coefficients = lda_coefficients.rename(columns={'LD1 Coef': 'Principal Component 1', 'LD2 Coef': 'Principal Component 2'})
 
+    # name the index column using the data source
+    lda_coefficients.index.name = data_source
+
     return lda_df, lda_coefficients
 
 # Example usage:
-# intracellular_gc_ms_lda, lda_coefficients = get_lda_coordinates(intracellular_df)
+# intracellular_gc_ms_lda, lda_coefficients = get_lda_coordinates(intracellular_df, 'intracellular GC-MS')
 # lda_coefficients
